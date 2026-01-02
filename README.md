@@ -31,14 +31,14 @@ We applied **Marketing Mix Modeling (MMM)** to diagnose channel efficiency, surf
 ## 📊 Executive Visual Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/ROI%20vs%20Spend%20Quadrant.png" width="88%" />
+  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/ROI%20vs%20Spend%20Quadrant.png" width="100%" />
 </p>
 
 **Channel Efficiency Map — ROI vs. Spend**  
 Highlights high-ROI growth opportunities and flags inefficient high-spend channels.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/Spend%20Reallocation%20Opportunity.png" width="88%" />
+  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/Spend%20Reallocation%20Opportunity.png" width="100%" />
 </p>
 
 **Revenue Impact Simulation — Spend Reallocation Scenario**  
