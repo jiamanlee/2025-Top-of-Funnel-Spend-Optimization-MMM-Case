@@ -1,72 +1,85 @@
 # Top-of-Funnel Performance Review — MMM Reallocation Case
 
-This project is a practical case study completed for a **Professional Service Analyst** prompt, using **Marketing Mix Modeling (MMM)** to help validate the efficiency of **top-of-funnel (TOF)** marketing spend for a **baby mattress brand**.
+A practical case study completed for a **Professional Service Analyst** prompt, using **Marketing Mix Modeling (MMM)** to validate and optimize **top-of-funnel (TOF)** marketing spend for a consumer mattress brand.
 
 ---
 
-## 📌 Background
+## 🧭 Business Context
 
-**Brand:** [Brand Name]  
-**Annual Marketing Spend:** ~$5M USD  
-**Main Sponsor:** Chief Marketing Officer (CMO)  
-**Business Problem:**  
-The CMO wants to validate whether current TOF spending is truly driving incremental value. Their existing **Multi-Touch Attribution (MTA)** tracking has gaps — especially for awareness and prospecting channels — making it hard to trust standard reported ROIs.
+**Brand:** Confidential Consumer Brand  
+**Annual Marketing Spend:** ~$5M  
+**Primary Stakeholder:** Chief Marketing Officer (CMO)
 
-To solve this, the brand turned to **MMM** as an independent lens to test performance, identify underperforming channels, and estimate the upside potential if budget is reallocated more efficiently.
+**Business Challenge**  
+The leadership team needed an independent validation of TOF performance. Existing **Multi-Touch Attribution (MTA)** reporting failed to reliably measure the true incremental impact of awareness and prospecting channels.
 
----
-
-## 📌 Case Study Goal
-
-✅ Evaluate all active TOF channels using MMM output.  
-✅ Classify channels as **GOOD**, **WATCHLIST**, or **WEAK** based on ROI, uncertainty, spend scale, and predicted revenue contribution.  
-✅ Identify inefficient spend segments (ROI < 2).  
-✅ Quantify the realistic incremental revenue if that budget is shifted to stronger channels.  
-✅ Communicate a clear, conservative upside range and practical next steps.
+**Solution Approach**  
+We applied **Marketing Mix Modeling (MMM)** to diagnose channel efficiency, surface underperformers, and simulate realistic upside from budget reallocation.
 
 ---
 
-## 📌 Included Files
+## 🎯 Project Objectives
 
-- **TOF_Performance_Review.pdf** — The final presentation deck, covering:
-  - Executive Summary
-  - ROI vs. Spend Quadrant Analysis
-  - Channel Spend Correlation Heatmap
-  - Good vs. Weak Channel Categorization
-  - Reallocation Scenario Calculation
-  - Strategic Next Steps
-  - Detailed Appendix with all formulas
-
-- **TOF_Performance_Review.pptx** — Original editable slides.
-
-- **MMM_Analysis.xlsx** — Supporting model output with spend, predicted ROI, correlation, and uncertainty scores.
-
-- **Case Study Requirement - Prompt.pdf** — Original prompt with full business context.
+- Evaluate all active TOF channels using MMM output  
+- Classify channels as **Good**, **Watchlist**, or **Weak** using ROI, uncertainty, spend, and revenue impact  
+- Identify inefficient spend (ROI < 2)  
+- Quantify realistic incremental revenue from reallocation  
+- Deliver defensible, executive-ready recommendations  
 
 ---
 
-## 📌 Key Finding
+## 📊 Executive Visual Summary
 
-- Identified **\$263K+** in spend across **underperforming TOF channels** (ROI < 2).
-- Theoretical maximum incremental revenue if reallocated to higher-performing channels (ROI ~9) ≈ **\$2.2M**.
-- After applying **marginal diminishing returns** and a **conservative 15–20% realization factor**, the **realistic uplift** is estimated at **\$165K–\$221K**, representing a **~104% uplift for this block**.
-- This scenario demonstrates how MMM can replace unreliable MTA for TOF channels and support smarter spend reallocation.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/ROI%20vs%20Spend%20Quadrant.png" width="88%" />
+</p>
 
----
+**Channel Efficiency Map — ROI vs. Spend**  
+Highlights high-ROI growth opportunities and flags inefficient high-spend channels.
 
-## 📌 Final Conclusion
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/Spend%20Reallocation%20Opportunity.png" width="88%" />
+</p>
 
-*"Reallocating inefficient spend can unlock meaningful incremental revenue. Combining MMM outputs with conservative, transparent assumptions ensures recommendations are realistic and defensible for senior stakeholders."*
-
----
-
-## 📌 Author
-
-Prepared by **Jiaman Li**, 2025.  
-For demonstration & professional portfolio use only.
+**Revenue Impact Simulation — Spend Reallocation Scenario**  
+Identified **$263K+** in inefficient TOF spend.  
+After conservative adjustments, reallocation delivers **$165K–$221K incremental revenue (~104% uplift)**.
 
 ---
 
-## 📌 License
+## 🧠 Key Findings
 
-This case study is shared for non-commercial educational and portfolio purposes only.
+- **$263K+** identified in underperforming TOF spend (ROI < 2)  
+- Theoretical upside if fully reallocated to top channels (ROI ~9): **≈ $2.2M**  
+- Conservative realization model (diminishing returns + 15–20% execution factor) yields **$165K–$221K** realistic uplift  
+- Demonstrates how **MMM provides a more reliable optimization lens** than traditional MTA for TOF channels  
+
+---
+
+## 🧩 Deliverables
+
+- **TOF_Performance_Review.pdf** — Final executive deck  
+  *(Executive Summary, Channel Evaluation, Quadrant Analysis, Correlation Heatmap, Reallocation Modeling, Strategic Actions, Full Appendix)*  
+- **TOF_Performance_Review.pptx** — Editable slide version  
+- **MMM_Analysis.xlsx** — Model outputs (spend, ROI, uncertainty, correlation)  
+- **Case Study Prompt.pdf** — Original business brief  
+
+---
+
+## 🏁 Final Takeaway
+
+> **Strategic reallocation of inefficient spend can unlock meaningful incremental revenue.  
+> Combining MMM outputs with conservative financial assumptions produces recommendations that are both impactful and defensible at the executive level.**
+
+---
+
+## 👤 Author
+
+**Jiaman Li** — 2025  
+Prepared for professional portfolio and demonstration purposes.
+
+---
+
+## 📄 Usage & License
+
+Shared for **non-commercial, educational, and portfolio use only**.
