@@ -4,7 +4,7 @@ A practical case study completed for a **Professional Service Analyst** prompt, 
 
 ---
 
-## 🧭 Business Context
+## Business Context
 
 **Brand:** Confidential Consumer Brand  
 **Annual Marketing Spend:** ~$5M  
@@ -18,7 +18,7 @@ We applied **Marketing Mix Modeling (MMM)** to diagnose channel efficiency, surf
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Evaluate all active TOF channels using MMM output  
 - Classify channels as **Good**, **Watchlist**, or **Weak** using ROI, uncertainty, spend, and revenue impact  
@@ -28,7 +28,7 @@ We applied **Marketing Mix Modeling (MMM)** to diagnose channel efficiency, surf
 
 ---
 
-## 📊 Executive Visual Summary
+## Executive Visual Summary
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jiamanlee/2025-Top-of-Funnel-Spend-Optimization-MMM-Case/main/ROI%20vs%20Spend%20Quadrant.png" width="100%" />
@@ -47,7 +47,7 @@ After conservative adjustments, reallocation delivers **$165K–$221K incrementa
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 
 - **$263K+** identified in underperforming TOF spend (ROI < 2)  
 - Theoretical upside if fully reallocated to top channels (ROI ~9): **≈ $2.2M**  
@@ -56,7 +56,7 @@ After conservative adjustments, reallocation delivers **$165K–$221K incrementa
 
 ---
 
-## 🧩 Deliverables
+## Deliverables
 
 - **TOF_Performance_Review.pdf** — Final executive deck  
   *(Executive Summary, Channel Evaluation, Quadrant Analysis, Correlation Heatmap, Reallocation Modeling, Strategic Actions, Full Appendix)*  
@@ -66,14 +66,14 @@ After conservative adjustments, reallocation delivers **$165K–$221K incrementa
 
 ---
 
-## 🏁 Final Takeaway
+## Final Takeaway
 
 > **Strategic reallocation of inefficient spend can unlock meaningful incremental revenue.  
 > Combining MMM outputs with conservative financial assumptions produces recommendations that are both impactful and defensible at the executive level.**
 
 ---
 
-## 👤 Author
+## Author
 
 **Jiaman Li** — 2025  
 Prepared for professional portfolio and demonstration purposes.
